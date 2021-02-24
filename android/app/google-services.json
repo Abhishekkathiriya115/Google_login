@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "1077341934174",
+    "project_id": "chatapp-7dcee",
+    "storage_bucket": "chatapp-7dcee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077341934174:android:6448d4e55e9c2f4d665acf",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077341934174-alg2i738sh6g3kkrmepi8im2anb8fpcv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chat_app",
+            "certificate_hash": "a16614d04bf276d7f79ebbbe3b771e469f8db9c8"
+          }
+        },
+        {
+          "client_id": "1077341934174-gg9gnq17v599du5lm500c0liu7j3uhcu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTjEGrTohPsbLktWfea0RhTGvE21myDRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077341934174-gg9gnq17v599du5lm500c0liu7j3uhcu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077341934174:android:25583adf128511a2665acf",
+        "android_client_info": {
+          "package_name": "com.example.google_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077341934174-gg9gnq17v599du5lm500c0liu7j3uhcu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTjEGrTohPsbLktWfea0RhTGvE21myDRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077341934174-gg9gnq17v599du5lm500c0liu7j3uhcu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
